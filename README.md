@@ -77,3 +77,60 @@ The main difference between Von Neumann and Harvard architecture is that Von Neu
 
 28. *VPN*(Virtual private newtwork) - It establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet.
 29. *Cryptography* - It is the practice and study of techniques for secure communication in the presence of adversarial behavior. It is about constructing and analyzing protocols that prevent third parties or the public from reading private messages.
+30. 30. *Hypervisor* - It is a type of computer software, firmware or hardware that creates and runs virtual machines.
+
+| Type I  | Type II |
+| ------------- | ------------- |
+| Native (bare metal hypervisor)  | Hosted hypervisor  |
+| Installed directly on hardware and runs guest OS  | Runs on previously installed OS/installed on top of a os |
+| Acts as light weight as it runs directly  | Runs as software like other computer programs  |  
+----------
+<img src="https://github.com/raunakkk21/Keywords/assets/143111163/8ecf1b38-e2b2-4d88-a1e8-7c9c215d837f" height="400" width="700">
+
+
+31. *BareMetal*- Bare metal refers to a computer system without an operating system (OS) or installed applications. It's a computer's hardware assembly, structure, and components that is installed with either the firmware or basic input/output system (BIOS) software utility or no software at all.,
+32. *IAM* - Identity and access management(It's a framework that uses business processes, policies, and technologies to manage digital identities.)
+33.*Nginx* - Nginx is open-source web server software that can also perform reverse proxy, load balancing, email proxy, and HTTP cache services.Nginx is designed to handle a high number of connections simultaneously(proxy server).
+34. *Apache* - (Client server) - uses httpd(d stands for dameon:continuously runs in background) that creates a pool of child processes or threads to handle requests.
+35. *ASICs* - (Application-Specific Integrated Circuits) are computer chips that combine several different circuits all on one chip – it's a "system-on-a-chip" (SoC) design – allowing it to be custom programmed to combine several related functions that together carry out a specific overall task.
+36. *UDP* - User Datagram Protocol(Connectionless oreinted protocol), is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback,gaming or DNS lookups,but does not guarantee that data is received at other end.<img src="https://github.com/raunakkk21/Keywords/assets/143111163/a4c2459c-6989-4d08-9d4f-047797426129" height="400" widht="600">
+
+37. *Packets* -A packet is a small segment of a larger message. Data sent over computer networks, such as the Internet, is divided into packets, recombined by te client computer.
+38. *Load Balance* - Load balancing is the method of distributing network traffic equally across a pool of resources that support an application.<img src="https://github.com/raunakkk21/Keywords/assets/143111163/e35f8f3b-a4f4-4712-870b-9401bbb3412a" height="350" width="550">
+
+39. *Server* - A computer or system that provides a service to another computer program and its user, also known as the client.
+- Client Server - A relationship in which one program, the client, requests a service or resource from another program, the server. *EX* - email, network printing, and the World Wide Web
+- Proxy Server - A server that acts as an intermediary between the request made by clients *EX* - an HTTP proxy intercepts web access, and an SMTP proxy intercepts email
+<img src="https://github.com/raunakkk21/Keywords/assets/143111163/a1a9cb60-a38f-44f9-946b-4b5d4acdc3ae" height="300" width="500">
+
+40.Forward proxy and Reverse proxy  
+<img width="518" alt="Screenshot 2023-10-23 180847" src="https://github.com/raunakkk21/Keywords/assets/143111163/d83a814d-eb0c-4293-86df-8efd754acf09">
+
+
+## Cloud Concepts
+### Use Cases
+1. Fraud Detection and Prevention
+2. Personalized Treatments
+3. Online Games
+### Some Terms related to Cloud Computing
+- Infrastructure as a Service *(IaaS)* : Amazon Web Services (AWS), Microsoft Azure, Google Compute Engine (GCE), IBM Cloud
+- Platform as a Service *(PaaS)* :  Windows Azure, Google App Engine, AWS Lambda, Azure Functions.
+- Software as a Service *(SaaS)* : Salesforce, Shopify, MailChimp, Dropbox, Hubspot
+### Types of Cloud
+1. Public Cloud - Anywhere on the internet : Cloud Service Provider provides the infrastructure(AWS, Azure) :: Multi-Tenant
+2. Private Cloud - Inside the Organisation Network : Organisation solely responsible for infra :: Single-Tenant
+3. Hybrid Cloud - Inside Organisation or Anywhere on te internet :: Multi Tenant + Single Tenant
+## Characterics of Cloud Computing
+- On demand Self-service
+- Broad Network Access
+- Resource Pooling
+- Rapid Elasticity
+- Measured Service
+### Benefits of CLoud Computing
+1. pay as you go
+2. scalability
+3. Accessibility
+4. Cost effective
+5. Go global in minutes
+### OOPs Concept
+![what-is-object-oriented-programming7](https://github.com/raunakkk21/Keywords/assets/143111163/cc924080-5220-407f-9c2e-f9020ab259f1)
